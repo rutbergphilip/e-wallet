@@ -42,11 +42,10 @@ li {
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .wallet {
-  cursor: pointer;
   display: flex;
   justify-content: center;
   margin-top: 4rem;
@@ -54,6 +53,7 @@ ul {
 }
 
 .my-card {
+  cursor: pointer;
   margin-bottom: -120px;
 }
 
