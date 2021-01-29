@@ -54,7 +54,12 @@ ul {
 
 .my-card {
   cursor: pointer;
-  margin-bottom: -120px;
+  margin-bottom: -170px;
+  transition: all .2s ease-in-out;
+}
+
+.my-card:hover {
+  transform: scale(1.1);
 }
 
 </style>
