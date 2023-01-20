@@ -1,4 +1,5 @@
-# iths-e-wallet
+# e-wallet
+### This is a small project created for the purpose of learning vue for the first time.
 
 ## Project setup
 ```
@@ -9,4 +10,3 @@ npm install
 ```
 npm run serve
 ```
-This is a small project created for the purpose of learning vue for the first time.
